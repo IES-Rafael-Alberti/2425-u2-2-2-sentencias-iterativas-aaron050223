@@ -11,15 +11,15 @@ Apoyate en los siguientes recursos para realizar la práctica:
 # Título de la Actividad
 
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** 2.2 Sentencias iterativas
+- **Módulo:** PROG
+- **Unidad de Trabajo:** U2
+- **Fecha de Creación:** 22/10/2024
+- **Fecha de Entrega:** 23/10/2024
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** Aarón Gallardo Canto
+  - **Correo electrónico:** agalcan1410@g.educaand.es
+  - **Iniciales del Alumno/Grupo:** AGC
 
 ## Descripción de la Actividad
 [Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
